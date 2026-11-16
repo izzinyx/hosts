@@ -1,3 +1,4 @@
+echo "starting ip checking"
 flag=0
 while read p; do
 	if [[ "$flag" == 1 ]]; then
